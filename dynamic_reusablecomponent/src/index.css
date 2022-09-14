@@ -1,0 +1,14 @@
+.red{
+    color: red;
+}
+.box{
+    border: 1px solid  black;
+}
+.green{
+    color: green;
+}
+.mediacard{
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 15px;
+}
